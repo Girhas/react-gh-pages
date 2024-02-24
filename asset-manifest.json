@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.56281e20.css",
+    "main.js": "/portfolio/static/js/main.e276bd93.js",
+    "static/js/453.ed3810f9.chunk.js": "/portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/me.jpg": "/portfolio/static/media/me.1f55a0fff5e5e58384bd.jpg",
+    "static/media/SEP.PNG": "/portfolio/static/media/SEP.f42f956df90c749400b2.PNG",
+    "static/media/about_me.jpg": "/portfolio/static/media/about_me.815811463da672be7d14.jpg",
+    "static/media/Python_Logo.png": "/portfolio/static/media/Python_Logo.dea924d737bb84eb9ce3.png",
+    "static/media/Irhas_Gill_resume.pdf": "/portfolio/static/media/Irhas_Gill_resume.316ffdc16ebdc09c4324.pdf",
+    "static/media/C++_Logo.png": "/portfolio/static/media/C++_Logo.64f637357bce0ccc8384.png",
+    "static/media/CSS_Logo.png": "/portfolio/static/media/CSS_Logo.015d4e7819fe71e19c25.png",
+    "static/media/hipMigration.jpg": "/portfolio/static/media/hipMigration.1a983765d6ae84406876.jpg",
+    "static/media/C_Logo.png": "/portfolio/static/media/C_Logo.d083731589e745941c43.png",
+    "static/media/HTML_Logo.png": "/portfolio/static/media/HTML_Logo.94972f53c025a8fb7e2b.png",
+    "static/media/coming_soon.avif": "/portfolio/static/media/coming_soon.3eb5e10d7a78db9bd7a3.avif",
+    "index.html": "/portfolio/index.html",
+    "main.56281e20.css.map": "/portfolio/static/css/main.56281e20.css.map",
+    "main.e276bd93.js.map": "/portfolio/static/js/main.e276bd93.js.map",
+    "453.ed3810f9.chunk.js.map": "/portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56281e20.css",
+    "static/js/main.e276bd93.js"
+  ]
+}
